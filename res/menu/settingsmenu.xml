@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/urlMenu" android:title="Url"
+		android:icon="@android:drawable/ic_menu_preferences"></item>
+    	<item android:id="@+id/disconnectMenu" android:icon="@android:drawable/ic_lock_power_off"
+		android:title="Quit"></item>
+
+</menu>
